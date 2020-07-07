@@ -22,9 +22,8 @@ li {
 }
 .header {
   background-color: #F5B4B3;
-  height: 50px;
+  height: 55px;
   font-size: 1.5rem;
-  margin:0 auto;
 }
 ul.top_menu {
   float: right;
@@ -42,18 +41,16 @@ ul.top_menu {
 .top_menu li a:hover {
   text-decoration: underline;
 }
-.logo_image { 
+.logo_image {
   width: 110px;
   float: left;
-  margin: 0;
+  vertical-align: middle;
 }
 .image_area{
   width: 100%;
-  margin:0 auto;
 }
 .wrapper{
   margin-top: 10px;
-  padding-bottom: 100px;
 }
 .side_menu{
   width: 300px;
